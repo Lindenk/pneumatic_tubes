@@ -1,0 +1,10 @@
+{
+"name": "DiggingDeep",
+"title": "Digging Deep",
+"version": "0.0.1",
+"date": "2016-07-03",
+"author": "Lindenk",
+"dependencies": ["base >= 0.13.0"],
+"factorio_version":"0.13.0",
+"description": "Adds a new underground area(s) to find, explore, and exploit."
+}

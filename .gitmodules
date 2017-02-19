@@ -1,0 +1,3 @@
+[submodule "deps/factorio-stdlib"]
+	path = Factorio-Stdlib
+	url = git@github.com:Afforess/Factorio-Stdlib.git

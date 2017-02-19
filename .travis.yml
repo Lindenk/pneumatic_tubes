@@ -1,0 +1,6 @@
+before_install: ./ci_scripts/install_deps.sh
+install: ./build.sh 
+before_script: ./ci_scripts/post_build.sh 
+script: ./ci_scripts/run.sh
+notifications:
+  email: false
