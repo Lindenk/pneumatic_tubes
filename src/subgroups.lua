@@ -5,6 +5,10 @@ data:extend(
       name = "pneumatics",
       group = "logistics",
       order = "d-a",
+    },
+    {
+      type = "rail-category",
+      name = "pneumatic",
     }
   }
 )
